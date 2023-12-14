@@ -7,9 +7,15 @@ describe('United States - Footer tests (Resolution: macbookPro16 1280x720)', () 
       
     cy.setResolution('macbookPro16')
     cy.visitVTEXStage('united_states');
-    //teste
+    //alterando no vscode
 
+<<<<<<< HEAD
   })
+=======
+    //alterando no git
+
+  });
+>>>>>>> 8184f25f888f8dfebf7f9c6245d409e42e7d0d5f
 
   describe('Menu', () => {
     
