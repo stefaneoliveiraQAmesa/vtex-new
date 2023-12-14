@@ -7,7 +7,7 @@ describe('United States - Footer tests (Resolution: macbookPro16 1280x720)', () 
       
     cy.setResolution('macbookPro16')
     cy.visitVTEXStage('united_states');
-    cy.log('DEU BOM')
+    //teste
 
   })
 
